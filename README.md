@@ -1,7 +1,7 @@
 # 42-cub3D
 
-![](https://github.com/timygerdes/42-cub3D/workflows/norminette/badge.svg)
-![](https://github.com/timygerdes/42-cub3D/workflows/build/badge.svg)
+[//]: <> (![](https://github.com/timygerdes/42-cub3D/workflows/norminette/badge.svg))
+[//]: <> (![](https://github.com/timygerdes/42-cub3D/workflows/build/badge.svg))
 ![](https://img.shields.io/tokei/lines/github/timygerdes/42-cub3D?style=plastic?color=blue)
 
 ## About
